@@ -16,21 +16,35 @@ Answer the questions below
 How many events were returned for the month of March 2022?
 
 https://imgur.com/5FFzrVt
+![1](https://imgur.com/5FFzrVt.jpg)
+
 What is the IP associated with the suspected user in the logs?
 
 https://imgur.com/La7sdI4
+![1](https://imgur.com/La7sdI4.jpg)
+
 The user’s machine used a legit windows binary to download a file from the C2 server. What is the name of the binary?
 
 https://imgur.com/oTKuIM7
+![1](https://imgur.com/oTKuIM7.jpg)
+
 The infected machine connected with a famous filesharing site in this period, which also acts as a C2 server used by the malware authors to communicate. What is the name of the filesharing site?
 
 https://imgur.com/BDNuYvt
+![1](https://imgur.com/BDNuYvt.jpg)
+
 What is the full URL of the C2 to which the infected host is connected?
 
 https://imgur.com/J6KNAW3
+![1](https://imgur.com/J6KNAW3.jpg)
 A file was accessed on the filesharing site. What is the name of the file accessed?
 
 https://imgur.com/gk4AYpE
+![1](https://imgur.com/gk4AYpE.jpg)
+
 The file contains a secret code with the format THM{_____}.
 
 https://imgur.com/0JqgmER
+
+
+![1](https://imgur.com/0JqgmER.jpg)
